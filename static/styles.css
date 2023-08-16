@@ -1,0 +1,8 @@
+.com {
+    text-decoration: line-through;
+    /* Add any other styles you want for completed tasks */
+  }
+
+.not-com {
+    text-decoration: none;
+}
